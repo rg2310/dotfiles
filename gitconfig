@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = renitatje@hotmail.com
+	name = Renee
